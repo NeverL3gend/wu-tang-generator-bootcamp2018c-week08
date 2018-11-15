@@ -1,24 +1,14 @@
-# My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
-
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
-![alt tag](http://placecorgi.com/1200/650)
+# Wu-Tang Name Generator Project
+Come on in and lets get you a Wu-Tang Name!
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
-
-## Optimizations
-*(optional)*
-
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+**Tech used:** HTML, CSS, JavaScript
+Within this project it was very easy to understand what I needed to do and what actions to take. Now displaying that information was a whole other story. JavaScript is something that I really needed to work on and from previous projects I saw that there same functionality where the user just needs to hit a button and boom things will start to happen. So now what I needed to do is go into my JS made sure that when the user hits Generate they would get a name and the same name everytime they enter their own name. I made sure that when I used my name during the testing that I would get the same name in which I did.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Slowly doing these projects they are never done there are always things to do and make it better. Knowing that I got this done is an amazing feeling and as well knowing that it works makes things a bit better more than ever. BUT this does not mean that this is done, later on down the line i am going to make sure that I design the page right
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
